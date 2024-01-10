@@ -6,11 +6,11 @@ This project aims to classify music genres using machine learning and deep learn
 
 ## Data
 
-The dataset used for this project is [provide dataset source and details].
+The data set used for this project was taken from Kaggle.
 
 ## Requirements
 
-- Python [version]
+- Python
 - Libraries: pandas, numpy, scipy, os, pickle, librosa, IPython, scikit-learn, tensorflow, matplotlib, seaborn
 
 ## Setup
