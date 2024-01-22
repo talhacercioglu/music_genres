@@ -7,6 +7,7 @@ This project aims to classify music genres using machine learning and deep learn
 ## Data
 
 The data set used for this project was taken from Kaggle.
+Don't forget to pull the necessary data from Kaggle with the API file!
 
 ## Requirements
 
